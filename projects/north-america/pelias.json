@@ -33,7 +33,8 @@
   },
   "imports": {
     "adminLookup": {
-      "enabled": true
+      "enabled": true,
+      "usePostalCities": true
     },
     "geonames": {
       "datapath": "/data/geonames",
