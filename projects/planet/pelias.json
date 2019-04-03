@@ -60,7 +60,8 @@
       "files": [ "extract.0sv" ]
     },
     "whosonfirst": {
-      "dataHost": "https://s3.amazonaws.com/wof-dist-mirror/2019-04-25-custom",
+      "sqlite": true,
+      "dataHost": "https://s3.amazonaws.com/wof-dist-mirror/2019-03-17-custom",
       "datapath": "/data/whosonfirst",
       "importVenues": false,
       "importPostalcodes": true
